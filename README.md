@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently checking :  **Advanced AWS Architecture Topics,Advanced Automation for K8s**
+- 🌱 I’m currently checking :  **Advanced AWS Architecture Topics, Advanced Automation for K8s**
 
 - 👯 I’m looking to collaborate on :  **DevOps, Observability , Security Projects**
 
